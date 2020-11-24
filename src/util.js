@@ -6,7 +6,7 @@ function chillHop(){
         artist: "Aviino",
         audio: "https://mp3.chillhop.com/serve.php/?mp3=10448",
         id: uuidv4(),
-        active: false,
+        active: true,
         color: ['#EB7597', '#6FA9E3']
     },
     {
